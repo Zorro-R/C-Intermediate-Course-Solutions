@@ -1,0 +1,11 @@
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\obj\Debug\netcoreapp3.0\StackExercise.csprojAssemblyReference.cache
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\obj\Debug\netcoreapp3.0\StackExercise.AssemblyInfoInputs.cache
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\obj\Debug\netcoreapp3.0\StackExercise.AssemblyInfo.cs
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\bin\Debug\netcoreapp3.0\StackExercise.exe
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\bin\Debug\netcoreapp3.0\StackExercise.deps.json
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\bin\Debug\netcoreapp3.0\StackExercise.runtimeconfig.json
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\bin\Debug\netcoreapp3.0\StackExercise.runtimeconfig.dev.json
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\bin\Debug\netcoreapp3.0\StackExercise.dll
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\bin\Debug\netcoreapp3.0\StackExercise.pdb
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\obj\Debug\netcoreapp3.0\StackExercise.dll
+C:\Users\Jurij\source\repos\StackExercise\StackExercise\obj\Debug\netcoreapp3.0\StackExercise.pdb
