@@ -1,0 +1,11 @@
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\obj\Debug\netcoreapp3.0\DbConnectionExercise.csprojAssemblyReference.cache
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\obj\Debug\netcoreapp3.0\DbConnectionExercise.AssemblyInfoInputs.cache
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\obj\Debug\netcoreapp3.0\DbConnectionExercise.AssemblyInfo.cs
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\bin\Debug\netcoreapp3.0\DbConnectionExercise.exe
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\bin\Debug\netcoreapp3.0\DbConnectionExercise.deps.json
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\bin\Debug\netcoreapp3.0\DbConnectionExercise.runtimeconfig.json
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\bin\Debug\netcoreapp3.0\DbConnectionExercise.runtimeconfig.dev.json
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\bin\Debug\netcoreapp3.0\DbConnectionExercise.dll
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\bin\Debug\netcoreapp3.0\DbConnectionExercise.pdb
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\obj\Debug\netcoreapp3.0\DbConnectionExercise.dll
+C:\Users\Jurij\source\repos\DbConnectionExercise\DbConnectionExercise\obj\Debug\netcoreapp3.0\DbConnectionExercise.pdb
